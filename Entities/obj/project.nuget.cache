@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxbdInmf9+l8k8pVKQ4PlmMxs6pBfNDGkB65Ie8/6y4Rbg7H0rmN8zeGQcGmNOjm4NTNihzjkT5uXx/fvfHKsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berat\\source\\repos\\SqlEfPratic\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
